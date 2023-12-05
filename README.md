@@ -1,2 +1,5 @@
-# 1006-34MHz-to-4.4GHz-Frequency-Synthesizer
-Arduino Software for 34MHz to 4.4GHz Frequency Synthesizer
+# 1006 Frequency-Synthesizer
+Arduino Software for ZachTek Frequency Synthesizer 2
+
+Version 1 use a ADF4351  34MHz to 4.4GHz 
+Version 2 use a ADF4350 138MHz to 4.4GHz
